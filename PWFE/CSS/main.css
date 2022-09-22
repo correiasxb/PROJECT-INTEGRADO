@@ -1,0 +1,39 @@
+.main-container{
+    height: 75.6vh;
+    display: flex;
+    align-items: center;
+}
+
+.text-container{
+    flex-direction: column;
+    display: flex;
+    font-weight: 300;
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title-allpage{
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+.text-container{
+    margin-left: 7vw;
+}
+.text-blue-course{
+    color: #3347b0;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.device{
+    width: 440px;
+    padding-top: 40px;
+    margin-left: 7vw;
+}
+
+.student-container{
+    height: 4px;
+    
+   
+}

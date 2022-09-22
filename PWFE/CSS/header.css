@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    flex-direction: column;
+    background-color: #3347b0;
+}
+
+.header-container{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    padding-left: 3vw;
+    height: 5vw;
+}
+
+.exit{
+    padding-right: 3vw;
+    height: 2.5vw;
+}
